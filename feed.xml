@@ -7,41 +7,42 @@
     <language>es</language>
     <lastBuildDate>Wed, 11 Jun 2025 18:00:00 GMT</lastBuildDate>
     <itunes:author>Podcast Privado i10</itunes:author>
-    <itunes:image href="https://www.dropbox.com/scl/fi/1ml3mc3vnmhk4xl6d4gfp/i10.png?rlkey=avhiwlvpp81sbuktvq2xdewal&amp;dl=1" />
+    <itunes:image href="https://dl.dropboxusercontent.com/scl/fi/1ml3mc3vnmhk4xl6d4gfp/i10.png?rlkey=avhiwlvpp81sbuktvq2xdewal&raw=1" />
     <itunes:category text="Personal Journals"/>
     <itunes:explicit>false</itunes:explicit>
 
-       <item>
-        <title>PALMADAS-TXEMA</title>
-        <description>Episodio: PALMADAS-TXEMA</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/tn9lfb7qrb8ge9t5wuf5l/PALMADAS-TXEMA.mp3?rlkey=d7hapftsyy30bjz2n4u3ows17&dl=1" length="99572861" type="audio/mpeg" />
-        <guid isPermaLink="false">PALMADAS-TXEMA-1749670086518</guid>
-        <pubDate>Wed, 11 Jun 2025 10:59:54 GMT</pubDate>
-        <itunes:duration>00:00:00</itunes:duration>
-        <itunes:author>Podcast Privado i10</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-    </item>
     <item>
-        <title>jpask-barras</title>
-        <description>Episodio: jpask-barras</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/776egq2h6mdkeyepjjjlu/jpask-barras.mp3?rlkey=s7abuzrudlak743oa7udvblz1&dl=1" length="125571941" type="audio/mpeg" />
-        <guid isPermaLink="false">jpask-barras-1749670099550</guid>
-        <pubDate>Wed, 11 Jun 2025 14:44:57 GMT</pubDate>
-        <itunes:duration>00:00:00</itunes:duration>
-        <itunes:author>Podcast Privado i10</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-        <title>the wild project filosofo</title>
-        <description>Episodio: the wild project filosofo</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/67p9t31jxzr6wmrcrofub/the-wild-project-filosofo.mp3?rlkey=35jw0xg0wg96q2iwmckroelss&dl=1" length="214207037" type="audio/mpeg" />
-        <guid isPermaLink="false">the wild project filosofo-1749670114879</guid>
-        <pubDate>Wed, 11 Jun 2025 19:23:20 GMT</pubDate>
-        <itunes:duration>00:00:00</itunes:duration>
-        <itunes:author>Podcast Privado i10</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
+      <title>PALMADAS-TXEMA</title>
+      <description>Episodio: PALMADAS-TXEMA</description>
+      <enclosure url="https://dl.dropboxusercontent.com/scl/fi/tn9lfb7qrb8ge9t5wuf5l/PALMADAS-TXEMA.mp3?rlkey=d7hapftsyy30bjz2n4u3ows17&raw=1" length="99572861" type="audio/mpeg" />
+      <guid isPermaLink="false">PALMADAS-TXEMA-1749670086518</guid>
+      <pubDate>Wed, 11 Jun 2025 10:59:54 GMT</pubDate>
+      <itunes:duration>12:30</itunes:duration>
+      <itunes:author>Podcast Privado i10</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>jpask-barras</title>
+      <description>Episodio: jpask-barras</description>
+      <enclosure url="https://dl.dropboxusercontent.com/scl/fi/776egq2h6mdkeyepjjjlu/jpask-barras.mp3?rlkey=s7abuzrudlak743oa7udvblz1&raw=1" length="125571941" type="audio/mpeg" />
+      <guid isPermaLink="false">jpask-barras-1749670099550</guid>
+      <pubDate>Wed, 11 Jun 2025 14:44:57 GMT</pubDate>
+      <itunes:duration>16:20</itunes:duration>
+      <itunes:author>Podcast Privado i10</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>the wild project filosofo</title>
+      <description>Episodio: the wild project filosofo</description>
+      <enclosure url="https://dl.dropboxusercontent.com/scl/fi/67p9t31jxzr6wmrcrofub/the-wild-project-filosofo.mp3?rlkey=35jw0xg0wg96q2iwmckroelss&raw=1" length="214207037" type="audio/mpeg" />
+      <guid isPermaLink="false">the wild project filosofo-1749670114879</guid>
+      <pubDate>Wed, 11 Jun 2025 19:23:20 GMT</pubDate>
+      <itunes:duration>29:50</itunes:duration>
+      <itunes:author>Podcast Privado i10</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
   </channel>
 </rss>
