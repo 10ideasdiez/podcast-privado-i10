@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0">
   <channel>
-    <title>Podcast Privado i10</title>
+    <title>Ex-cuchame Bien</title>
     <link>https://www.dropbox.com/</link>
-    <description>Un podcast privado con acceso exclusivo</description>
+    <description>interesantes</description>
     <language>es</language>
-    <lastBuildDate>Wed, 11 Jun 2025 12:45:00 GMT</lastBuildDate>
-    <itunes:image href="https://www.dropbox.com/scl/fi/1ml3mc3vnmhk4xl6d4gfp/i10.png?rlkey=avhiwlvpp81sbuktvq2xdewal&dl=1" />
+    <lastBuildDate>Wed, 11 Jun 2025 10:00:00 +0200</lastBuildDate>
 
     <item>
-      <title>jpask-barras</title>
-      <enclosure url="https://www.dropbox.com/scl/fi/x3119jngcx4vbku1rr0t4/jpask-barras.mp3?rlkey=k56zosjww64s7gh7vsgybzw0a&dl=1" length="0" type="audio/mpeg"/>
-      <guid>jpask-barras</guid>
-      <pubDate>Wed, 11 Jun 2025 12:45:00 GMT</pubDate>
+      <title>PALMADAS - TXEMA</title>
+      <enclosure url="https://www.dropbox.com/scl/fi/tn9lfb7qrb8ge9t5wuf5l/PALMADAS-TXEMA.mp3?rlkey=2exx62oow1g27iz2rhoqtlpct&dl=1" length="0" type="audio/mpeg"/>
+      <guid>palmadas-txema</guid>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0200</pubDate>
     </item>
 
   </channel>
