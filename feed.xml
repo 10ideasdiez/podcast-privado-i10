@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Ex-cuchame Bien</title>
-    <link>https://www.dropbox.com/</link>
-    <description>interesantes</description>
+    <title>Test Dropbox Feed</title>
+    <link>https://example.com</link>
+    <description>Prueba de feed con Dropbox ?dl=1</description>
     <language>es</language>
-    <lastBuildDate>Wed, 11 Jun 2025 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 18:00:00 GMT</lastBuildDate>
+    <itunes:author>Test</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
 
     <item>
-      <title>PALMADAS - TXEMA</title>
-      <enclosure url="https://www.dropbox.com/scl/fi/tn9lfb7qrb8ge9t5wuf5l/PALMADAS-TXEMA.mp3?rlkey=2exx62oow1g27iz2rhoqtlpct&dl=1" length="0" type="audio/mpeg"/>
-      <guid>palmadas-txema</guid>
-      <pubDate>Wed, 11 Jun 2025 10:00:00 +0200</pubDate>
+      <title>Test Episodio</title>
+      <description>Probando enlace directo de Dropbox</description>
+      <enclosure url="https://www.dropbox.com/scl/fi/tn9lfb7qrb8ge9t5wuf5l/PALMADAS-TXEMA.mp3?rlkey=d7hapftsyy30bjz2n4u3ows17&amp;dl=1" length="99572861" type="audio/mpeg" />
+      <guid>test-001</guid>
+      <pubDate>Wed, 11 Jun 2025 10:59:54 GMT</pubDate>
+      <itunes:duration>12:30</itunes:duration>
+      <itunes:author>Test</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
     </item>
 
   </channel>
