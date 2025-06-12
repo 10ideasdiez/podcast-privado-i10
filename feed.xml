@@ -1,1 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Podcast Privado i10</title>
+    <link>https://10ideasdiez.github.io/podcast-privado-i10/</link>
+    <description>Un podcast privado con acceso exclusivo</description>
+    <language>es</language>
+    <lastBuildDate>Wed, 11 Jun 2025 17:30:00 GMT</lastBuildDate>
+    <itunes:author>Podcast Privado i10</itunes:author>
+    <itunes:image href="https://www.dropbox.com/scl/fi/1ml3mc3vnmhk4xl6d4gfp/i10.png?rlkey=avhiwlvpp81sbuktvq2xdewal&dl=1" />
+    <itunes:category text="Personal Journals"/>
+    <itunes:explicit>false</itunes:explicit>
+    <managingEditor>podcast@i10.com</managingEditor>
+    <webMaster>podcast@i10.com</webMaster>
+    <ttl>60</ttl>
 
+  </channel>
+</rss>
