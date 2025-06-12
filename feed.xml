@@ -1,24 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Test Dropbox Feed</title>
-    <link>https://example.com</link>
-    <description>Prueba de feed con Dropbox ?dl=1</description>
+    <title>Podcast Privado i10</title>
+    <link>https://10ideasdiez.github.io/podcast-privado-i10/</link>
+    <description>Un podcast privado con acceso exclusivo</description>
     <language>es</language>
-    <lastBuildDate>Wed, 11 Jun 2025 18:00:00 GMT</lastBuildDate>
-    <itunes:author>Test</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Thu, 12 Jun 2025 08:13:01 GMT</lastBuildDate>
+    <itunes:author>Podcast Privado i10</itunes:author>
+    <itunes:image href="https://www.dropbox.com/scl/fi/1ml3mc3vnmhk4xl6d4gfp/i10.png?rlkey=avhiwlvpp81sbuktvq2xdewal&amp;raw=1" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Personal Journals"/>
 
     <item>
-      <title>Test Episodio</title>
-      <description>Probando enlace directo de Dropbox</description>
-      <enclosure url="https://www.dropbox.com/scl/fi/tn9lfb7qrb8ge9t5wuf5l/PALMADAS-TXEMA.mp3?rlkey=d7hapftsyy30bjz2n4u3ows17&amp;dl=1" length="99572861" type="audio/mpeg" />
-      <guid>test-001</guid>
+      <title>PALMADAS-TXEMA</title>
+      <guid isPermaLink="false">PALMADAS-TXEMA-1749715981513</guid>
       <pubDate>Wed, 11 Jun 2025 10:59:54 GMT</pubDate>
-      <itunes:duration>12:30</itunes:duration>
-      <itunes:author>Test</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[Episodio: PALMADAS-TXEMA]]></description>
+      <itunes:summary>Episodio: PALMADAS-TXEMA</itunes:summary>
+      <itunes:author>Podcast Privado i10</itunes:author>
+      <itunes:duration>00:00:00</itunes:duration>
+      <enclosure url="https://www.dropbox.com/scl/fi/tn9lfb7qrb8ge9t5wuf5l/PALMADAS-TXEMA.mp3?rlkey=uknd9e7t3gkuwyhe9beckkx51&raw=1" length="99572861" type="audio/mpeg"/>
     </item>
+
+  <item>
+      <title>the wild project filosofo</title>
+      <guid isPermaLink="false">the wild project filosofo-1749716007132</guid>
+      <pubDate>Wed, 11 Jun 2025 19:23:20 GMT</pubDate>
+      <description><![CDATA[Episodio: the wild project filosofo]]></description>
+      <itunes:summary>Episodio: the wild project filosofo</itunes:summary>
+      <itunes:author>Podcast Privado i10</itunes:author>
+      <itunes:duration>00:00:00</itunes:duration>
+      <enclosure url="https://www.dropbox.com/scl/fi/67p9t31jxzr6wmrcrofub/the-wild-project-filosofo.mp3?rlkey=r6eoj88tu0qu45sc2eq89u2zd&raw=1" length="214207037" type="audio/mpeg"/>
+    </item>
+
 
   </channel>
 </rss>
