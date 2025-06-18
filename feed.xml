@@ -13,16 +13,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Personal Journals"/>
 
-    <item>
-      <title>PALMADAS-TXEMA</title>
-      <guid isPermaLink="false">PALMADAS-TXEMA-1749715981513</guid>
-      <pubDate>Wed, 11 Jun 2025 10:59:54 GMT</pubDate>
-      <description><![CDATA[Episodio: PALMADAS-TXEMA]]></description>
-      <itunes:summary>Episodio: PALMADAS-TXEMA</itunes:summary>
-      <itunes:author>Podcast Privado i10</itunes:author>
-      <itunes:duration>00:00:00</itunes:duration>
-      <enclosure url="https://www.dropbox.com/scl/fi/tn9lfb7qrb8ge9t5wuf5l/PALMADAS-TXEMA.mp3?rlkey=uknd9e7t3gkuwyhe9beckkx51&raw=1" length="99572861" type="audio/mpeg"/>
-    </item>
+
 
            <item>
       <title>jpask-barras</title>
