@@ -35,25 +35,16 @@
       <itunes:duration>00:00:00</itunes:duration>
       <enclosure url="https://www.dropbox.com/scl/fi/rmk7pcp2zuoj7n4uiv5g7/Mari-Samuelsen-Helmersson-Timelapse-Looped.mp3?rlkey=omqrcmn5b0gwcegnp64luz3ej&raw=1" length="18009583" type="audio/mpeg"/>
     </item>
-    <item>
-      <title>José Mota   Cómo aplicar el humor en la vida   Las Historias del Mago More #01</title>
-      <guid isPermaLink="false">José Mota   Cómo aplicar el humor en la vida   Las Historias del Mago More #01-1751553380468</guid>
-      <pubDate>Thu, 03 Jul 2025 14:32:10 GMT</pubDate>
-      <description><![CDATA[Episodio: José Mota   Cómo aplicar el humor en la vida   Las Historias del Mago More #01]]></description>
-      <itunes:summary>Episodio: José Mota   Cómo aplicar el humor en la vida   Las Historias del Mago More #01</itunes:summary>
-      <itunes:author>Podcast Privado i10</itunes:author>
-      <itunes:duration>00:00:00</itunes:duration>
-      <enclosure url="https://www.dropbox.com/scl/fi/52zdi9epjcnqjxu1vebru/Jos-Mota-C-mo-aplicar-el-humor-en-la-vida-Las-Historias-del-Mago-More-01.mp3?rlkey=0g52k7dsfqafa0nbao66jmicc&raw=1" length="50340529" type="audio/mpeg"/>
-    </item>
-      <item>
+
+          <item>
       <title>Sin Pelos en la Lengua   Jordi Wild #ESDLB Cap.576</title>
-      <guid isPermaLink="false">Sin Pelos en la Lengua   Jordi Wild #ESDLB Cap.576-1754246367241</guid>
+      <guid isPermaLink="false">Sin Pelos en la Lengua   Jordi Wild #ESDLB Cap.576-1754306902440</guid>
       <pubDate>Sun, 03 Aug 2025 18:38:12 GMT</pubDate>
       <description><![CDATA[Episodio: Sin Pelos en la Lengua   Jordi Wild #ESDLB Cap.576]]></description>
       <itunes:summary>Episodio: Sin Pelos en la Lengua   Jordi Wild #ESDLB Cap.576</itunes:summary>
       <itunes:author>Podcast Privado i10</itunes:author>
       <itunes:duration>00:00:00</itunes:duration>
-      <enclosure url="https://www.dropbox.com/scl/fi/u8t1pz8x9jfw6wp578ojz/Sin-Pelos-en-la-Lengua-Jordi-Wild-ESDLB-Cap.576.mp3?rlkey=dcczx48qrdx4xzezma10t65n9&raw=1" length="189422343" type="audio/mpeg"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/u8t1pz8x9jfw6wp578ojz/Sin-Pelos-en-la-Lengua-Jordi-Wild-ESDLB-Cap.576.mp3?rlkey=q34wo7f1r2oaltz8d5aipkuvt&raw=1" length="189422343" type="audio/mpeg"/>
     </item>
 
     <item>
@@ -69,6 +60,7 @@
 
   </channel>
 </rss>
+
 
 
 
