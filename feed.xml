@@ -57,9 +57,21 @@
       <itunes:duration>00:00:00</itunes:duration>
       <enclosure url="https://www.dropbox.com/scl/fi/yw6elpr9d4smlo4xwfltp/Carlos-Areces-5-horas-con-Carlos-Areces-ESDLB-con-Ricardo-Moya-cap.435.mp3?rlkey=nk6f3xrjawun8hbnhyrsck5wx&raw=1" length="289307476" type="audio/mpeg"/>
     </item>
+        <item>
+      <title>areces superstar</title>
+      <guid isPermaLink="false">areces superstar-1754661803332</guid>
+      <pubDate>Fri, 08 Aug 2025 14:01:50 GMT</pubDate>
+      <description><![CDATA[Episodio: areces superstar]]></description>
+      <itunes:summary>Episodio: areces superstar</itunes:summary>
+      <itunes:author>Podcast Privado i10</itunes:author>
+      <itunes:duration>00:00:00</itunes:duration>
+      <enclosure url="https://www.dropbox.com/scl/fi/oupkdynf92md68b641mns/areces-superstar.mp3?rlkey=1ee7gdcy9olqii621rhg5g39w&raw=1" length="73610049" type="audio/mpeg"/>
+    </item>
+
 
   </channel>
 </rss>
+
 
 
 
